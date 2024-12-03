@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AripJam18
 - 👀 I’m interested in Desktop,Web and Mobile Programming
-- 🌱 I’m currently learning .net, java, C#, PHP, Android Studio, Unity3D
+- 🌱 I’m currently learning .net, java, C#, PHP, Android Studio, Unity3D , Arduino, IoT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
